@@ -51,7 +51,7 @@ De Software
   * Conectamos el sensor pir al protoboard, su pata ziquierda va a tierra, su pata de en medio va a la placa Arduino en el pin 2, la       pata derecha va a voltaje. Para el segundo sensor PIR se conectara al pin 4 de la placa Arduino.
   * Después conectamos la bocina al protoboard, la pata izquierda a tierra y la pata derecha se conecta donde estara la resistencia de     220 ohms que se conecta con los led's, después se pone un cable dupont que ira conetado a la placa Arduino en el pin 3.
   * Para los leds se conectara al protoboard, la pata mas corta ira a voltaje y la pata mas larga se conectara con una resistencia de       220 ohms como ya se había comentado.
-  <img src="https://github.com/Paola-Castillo-I/CasaInteligente/blob/master/Imagenes/sensorPIR.jpg" width="400" height="400">
+  <img src="https://github.com/Paola-Castillo-I/CasaInteligente/blob/master/Imagenes/sensorPIR.jpg" width="200" height="200">
   
 ## **Servomotores**
   * Conectamos el primer servomotor al protoboard, su pata izquierda ira conectado a tierra, su pata de en medio ira a voltaje y la         pata derecha ira conectada al pin 9 de la placa Arduino.
