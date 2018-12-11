@@ -1,4 +1,4 @@
-##**CASA INTELIGENTE**<br>
+## **CASA INTELIGENTE**<br>
 Instituto  Tecnológico de León<br>
 Ingeniería en Sistemas Computacionales<br>
 Sistemas Programables<br>
@@ -51,14 +51,14 @@ De Software
   * Conectamos el sensor pir al protoboard, su pata ziquierda va a tierra, su pata de en medio va a la placa Arduino en el pin 2, la       pata derecha va a voltaje. Para el segundo sensor PIR se conectara al pin 4 de la placa Arduino.
   * Después conectamos la bocina al protoboard, la pata izquierda a tierra y la pata derecha se conecta donde estara la resistencia de     220 ohms que se conecta con los led's, después se pone un cable dupont que ira conetado a la placa Arduino en el pin 3.
   * Para los leds se conectara al protoboard, la pata mas corta ira a voltaje y la pata mas larga se conectara con una resistencia de       220 ohms como ya se había comentado.
-  <img src="https://github.com/Paola-Castillo-I/CasaInteligente/blob/master/Imagenes/sensorPIR.JPG" width="200" height="200">
+  <img src="https://github.com/Paola-Castillo-I/CasaInteligente/blob/master/Imagenes/sensorPIR.JPG" width="400" height="400">
   
 ## **Servomotores**
   * Conectamos el primer servomotor al protoboard, su pata izquierda ira conectado a tierra, su pata de en medio ira a voltaje y la         pata derecha ira conectada al pin 9 de la placa Arduino.
   * Para el segundo servomotor se hara lo mismo que en primer servomotor pero la pata derecha ira conectada al pin 10 de la placa           arduino.
    <img src="https://github.com/Paola-Castillo-I/CasaInteligente/blob/master/Imagenes/conexionServo.png" width="400" height="400">
    
-## **Ethernet Shield""
+## **Ethernet Shield**
   * Se conecta el pin VCC a la placa Arduino en voltaje de 3.3V
   * El pin GND se conecta a la placa Arduino en GND
   * El pin SCK se conceta a la placa Arduino en Pin 13
